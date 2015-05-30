@@ -1,0 +1,84 @@
+eeschema (2013-07-07 BZR 4022)-stable  >> Creation date: 5/27/2015 11:21:44 AM
+#Cmp ( order = Reference )
+| AFF1       7SEGMENTS   
+| AFF2       7SEGMENTS   
+| AFF3       7SEGMENTS   
+| C1         C           
+| F1         FRC20       
+| P1         CONN_2      
+| P2         CONN_8X2    
+| P3         GND_JMP     
+| P4         CONN_2      
+| Q1         TIP127      
+| Q2         TIP127      
+| Q3         TIP127      
+| R1         2.2K        
+| R2         2.2K        
+| R3         2.2K        
+| R4         820         
+| R5         820         
+| R6         820         
+| R7         820         
+| R8         820         
+| R9         820         
+| R10        820         
+| R11        820         
+| R12        JMP         
+| R13        JMP_F       
+| R14        JMP_F       
+| R15        JMP_D       
+| R16        JMP_H       
+| R17        JMP_H       
+| R19        JMP_G       
+| R20        JMP_G       
+| R22        JMP_D       
+| R23        JMP_D       
+| R27        JMP         
+| R28        JMP         
+| R29        JMP         
+| U1         ULN2803A    
+| U2         ULN2003     
+#End Cmp
+
+#Cmp ( order = Value )
+| 7SEGMENTS    AFF1      
+| 7SEGMENTS    AFF2      
+| 7SEGMENTS    AFF3      
+| C            C1        
+| FRC20        F1        
+| CONN_2       P1        
+| CONN_8X2     P2        
+| GND_JMP      P3        
+| CONN_2       P4        
+| TIP127       Q1        
+| TIP127       Q2        
+| TIP127       Q3        
+| 820          R4        
+| 820          R5        
+| 820          R6        
+| 820          R7        
+| 820          R8        
+| 820          R9        
+| 820          R10       
+| 820          R11       
+| 2.2K         R1        
+| 2.2K         R2        
+| 2.2K         R3        
+| JMP          R12       
+| JMP_F        R13       
+| JMP_F        R14       
+| JMP_D        R15       
+| JMP_H        R16       
+| JMP_H        R17       
+| JMP_G        R19       
+| JMP_G        R20       
+| JMP_D        R22       
+| JMP_D        R23       
+| JMP          R27       
+| JMP          R28       
+| JMP          R29       
+| ULN2803A     U1        
+| ULN2003      U2        
+#End Cmp
+
+#End List
